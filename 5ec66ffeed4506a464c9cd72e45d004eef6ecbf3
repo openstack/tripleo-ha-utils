@@ -1,0 +1,9 @@
+Code-Review+2: Michele Baldessari <michele@acksyn.org>
+Code-Review+2: Raoul Scarazzini <rscarazz@redhat.com>
+Workflow+1: Raoul Scarazzini <rscarazz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 30 May 2018 22:03:57 +0000
+Reviewed-on: https://review.openstack.org/571254
+Project: openstack/tripleo-ha-utils
+Branch: refs/heads/master
