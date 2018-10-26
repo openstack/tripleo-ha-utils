@@ -1,0 +1,8 @@
+Code-Review+2: Raoul Scarazzini <rscarazz@redhat.com>
+Workflow+1: Raoul Scarazzini <rscarazz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 26 Oct 2018 14:58:07 +0000
+Reviewed-on: https://review.openstack.org/613095
+Project: openstack/tripleo-ha-utils
+Branch: refs/heads/master
