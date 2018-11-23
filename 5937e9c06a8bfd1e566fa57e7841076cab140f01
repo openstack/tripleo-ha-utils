@@ -1,0 +1,8 @@
+Code-Review+2: Raoul Scarazzini <rasca@mmul.it>
+Workflow+1: Raoul Scarazzini <rasca@mmul.it>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 23 Nov 2018 15:13:26 +0000
+Reviewed-on: https://review.openstack.org/619611
+Project: openstack/tripleo-ha-utils
+Branch: refs/heads/master
