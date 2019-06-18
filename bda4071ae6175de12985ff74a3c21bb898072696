@@ -1,0 +1,9 @@
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Code-Review+2: Bogdan Dobrelya (bogdando) <bdobreli@redhat.com>
+Workflow+1: Bogdan Dobrelya (bogdando) <bdobreli@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 18 Jun 2019 10:23:12 +0000
+Reviewed-on: https://review.opendev.org/574994
+Project: openstack/tripleo-ha-utils
+Branch: refs/heads/master
