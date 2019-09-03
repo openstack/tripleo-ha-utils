@@ -1,0 +1,10 @@
+Code-Review+1: Natal Ngétal <hobbestigrou@erakis.eu>
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Code-Review+2: James Slagle <jslagle@redhat.com>
+Workflow+1: James Slagle <jslagle@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 03 Sep 2019 20:28:46 +0000
+Reviewed-on: https://review.opendev.org/668545
+Project: openstack/tripleo-ha-utils
+Branch: refs/heads/master
